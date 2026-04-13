@@ -174,4 +174,4 @@ Thank you to all our backers! 🙏
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
 
 <a href="https://opencollective.com/bagisto" target="_blank"><img src="https://opencollective.com/bagisto/sponsors.svg?width=890&isActive=true"></a>
-  SCRUM-5: Add to cart feature
+SCRUM-5: Create add to cart functionality
